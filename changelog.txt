@@ -1,0 +1,4 @@
+= 07/12/2016=
+* modal responsive on mobile device
+= 07/08/2016 =
+* First release.
